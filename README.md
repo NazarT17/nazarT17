@@ -2,7 +2,7 @@
 
 ## I’m a QA Engineer Intern with a strong passion for ensuring software quality and reliability.
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1ItKAESdgaoTh5F_PFlUgTxu6ehShBrx9/view?usp=drive_link)
+[Link to my CV](https://drive.google.com/file/d/1QU8AqoX6mFFbqDs4z5XkNSAFiwUHGlAm/view?usp=sharing)
 
 ### Languages and Tools
 ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman )
