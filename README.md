@@ -1,8 +1,6 @@
 ![Header](https://github.com/NazarT17/nazarT17/blob/main/assets/image.png)
 
 ## I’m a QA Engineer Intern with a strong passion for ensuring software quality and reliability.
-## My CV
-[Link to my CV](https://drive.google.com/file/d/1YjCUtRMbdTCh4dT4v-z-bu1uO8N5_pRY/view?usp=sharing)
 
 ### Languages and Tools
 ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman )
